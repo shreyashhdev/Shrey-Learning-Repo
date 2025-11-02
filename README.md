@@ -1,7 +1,5 @@
 # Shrey-Learning-Repo
 <br>
-I am Computer Applications Stuedent and trying to learning git for the first time
-<br>
-I have addiction in programming
+I am Computer Applications Student and trying to learn git for the first time
 <br>
 My Name is Shreyash
